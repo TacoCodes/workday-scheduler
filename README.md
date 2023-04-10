@@ -50,8 +50,8 @@ The following animation demonstrates the application functionality:
 <br>
 The challange was upload to Github at the following repository:
 
-link to github-
+link to github- https://github.com/TacoCodes/workday-scheduler
 
-link to deployed website-
+link to deployed website- https://tacocodes.github.io/workday-scheduler/
 <br>
 
